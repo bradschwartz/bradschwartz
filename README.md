@@ -10,6 +10,4 @@
 
 - Primarily work on automation and backend software, reaching for Python :snake:,
   Bash, and Docker :whale:
-- Learning Rust :crab:, Go, and playing with a RaspberryPi :computer:
-
-Pronouns: _he / him / his_
+- Learning more about Ops via Kubernetes and Terraform, playing with Rust :crab:, Go, and a RaspberryPi :computer:
