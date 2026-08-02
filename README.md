@@ -1,6 +1,5 @@
-### Hi, I'm Brad 👋🏻
+### Hey, I'm Brad 👋🏻
 
-**I'm a software engineer passionate about developer experience and automation** 👨🏻‍💻
+**I'm a software engineer passionate about developer experience, infrastructure, and automation** 👨🏻‍💻
 
-- Currently on Developer Experience at [Podium](https://github.com/podium), formerly DevEx at [Embark Trucks](https://github.com/embarktrucks) :truck:
-- Based outside of Los Angeles, CA :ocean::sunny:
+- Currently on Infra & Developer Experience at [Capital One Travel](https://travel.capitalone.com/)  formerly DevEx at at [Podium](https://github.com/podium) & [Embark Trucks](https://github.com/embarktrucks) :truck:
